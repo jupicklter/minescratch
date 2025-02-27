@@ -5,6 +5,8 @@ CONTROLS:
 | WASD - Move |
 F - Fly |
 V - Punch |
+Left Shift - Sneak |
+123... - Switch Items |
 ----------------
 DEVS:
 | I_LOVE_FLIP_CLOCKS |
